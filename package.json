@@ -1,0 +1,30 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure Javascript Excel clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moiseencoo/excel.git"
+  },
+  "keywords": [
+    "javascript",
+    "webpack",
+    "es6"
+  ],
+  "author": "Varvara Moiseenko <moiseencoo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moiseencoo/excel/issues"
+  },
+  "homepage": "https://github.com/moiseencoo/excel#readme",
+  "devDependencies": {
+    "webpack": "^5.8.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
